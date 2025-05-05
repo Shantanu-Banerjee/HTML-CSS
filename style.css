@@ -61,7 +61,7 @@
   }
   
   .hero {
-    background: url('https://images.unsplash.com/photo-1618354691373-d851c2cc6f91?auto=format&fit=crop&w=1600&q=80') no-repeat center center/cover;
+    background-image: url(2.jpg);
     height: 80vh;
     display: flex;
     align-items: center;
